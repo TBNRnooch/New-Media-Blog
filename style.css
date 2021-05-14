@@ -1,0 +1,95 @@
+html {
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Nixie One", Cursive;
+  font-size: 35px;
+}
+
+
+h2 {
+  font-family: "Nixie One", Cursive, bold;
+  font-size: 25px;
+  display: inline-flex;
+  color: black;
+  padding: 0px 0px 0px 0px;
+}
+
+body {
+  padding: 0px 20px;
+  padding-left: 100px;
+  padding-right: 150px;
+}
+
+div#one {
+  height: 200px;
+  width: 100%;
+  display: inline-block;
+  padding: 0px;
+}
+
+
+ul#menu li {
+  display: inline;
+  color: gray;
+  padding: 20px;
+  font-family: "Roboto Slab", Cursive;
+  font-weight: 99999999;
+}
+a:hover {
+  color: rgb(0, 100, 230);
+  text-decoration: underline;
+}
+
+b#heading {
+  font-size: 50px;
+}
+
+span {
+  padding: 20px;
+
+}
+
+div.image {
+  display: inline;
+  float: right;
+}
+
+p.description {
+  font-size: 14px;
+  padding-top: 0px;
+  text-align: center;
+
+}
+
+img.book {
+  max-width: 160px;
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 0px;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.empty {
+  padding: 10px;
+  display: block;
+}
+div {
+  font-family: "Nixie One", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+img#sticky_rice {
+  display: inline;
+  padding-left: 20px;
+}
