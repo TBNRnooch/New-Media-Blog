@@ -52,6 +52,11 @@ span {
 
 }
 
+div.content {
+  text-indent: 50px;
+  padding: 5px;
+}
+
 div.image {
   display: inline;
   float: right;
